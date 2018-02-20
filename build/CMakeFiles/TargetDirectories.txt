@@ -1,0 +1,3 @@
+/mnt/c/Users/Isaac/Documents/SDCND/term2/CarND-MPC-Project-master/CarND-MPC-Project-master/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Isaac/Documents/SDCND/term2/CarND-MPC-Project-master/CarND-MPC-Project-master/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Isaac/Documents/SDCND/term2/CarND-MPC-Project-master/CarND-MPC-Project-master/build/CMakeFiles/mpc.dir
